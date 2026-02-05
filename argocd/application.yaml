@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<username>/gitops-k8s-argocd-deployment.git
-    targetRevision: main
+    repoURL: https://github.com/balachmir-cp-2077/gitops-k8s-argocd-deployment.git
+    targetRevision: master
     path: k8s/overlays/dev
   destination:
     server: https://kubernetes.default.svc
