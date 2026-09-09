@@ -20,7 +20,7 @@
 2. Argo CD detects changes
 3. Cluster state updated automatically
 
-### Lessons Learned
+### Showcases
 - Git as single source of truth
 - Declarative deployments
 - Environment isolation
