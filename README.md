@@ -1,8 +1,5 @@
 ## GitOps Kubernetes Deployment with Argo CD
 
-### Architecture
-(Add diagram)
-
 ### Tools Used
 - Kubernetes
 - Argo CD
